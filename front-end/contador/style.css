@@ -73,6 +73,12 @@ body{
     color: #000;
 }
 
+.positivo{
+    color: var(--color__1);
+}
+.negativo{
+    color: var(--color__2);
+}
 /* Animaciones */
 
 .animacion{
